@@ -5,9 +5,8 @@ Summarize your favourite blog posts and articles to make reading on the
 move easier.
 
 ## Demo
-
-<a href="arti-summ.netlify.app"/>
-
+[I'm an inline-style link](https://arti-summ.netlify.app)
+ 
 
 ## Screenshots
 
