@@ -6,7 +6,7 @@ move easier.
 
 ## Demo
 
-arti-summ.netlify.app
+<a href="arti-summ.netlify.app" Go to website />
 
 
 ## Screenshots
